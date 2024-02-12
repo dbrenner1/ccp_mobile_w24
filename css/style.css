@@ -19,9 +19,9 @@ body{
 .skip-link {
     position: absolute;
     display: inline-block;
-    padding: -10px;
+    padding: 10px;
     line-height: 1;
-    font-size: 15;
+    font-size: 15px;
     color: black    ;
     transform: translateY(0);
     transition: transform 250ms ease-in;
@@ -39,7 +39,7 @@ header{border-radius: 15px;
 h1{font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
     text-align: center;
-    font-size: 20;}
+    font-size: 20px;}
 
 h2{text-align: center;
     border-style:solid;
@@ -52,7 +52,7 @@ h2{text-align: center;
 }
 
 h3{text-align:center;
-    font-size: 25;
+    font-size: 25px;
     color: navy;
     }
 
@@ -405,7 +405,7 @@ h3{text-align:center;
 
     .cookie{
         place-content:center;
-        width: 390x;
+        width: 390px;
         overflow: hidden;
         border-color:black;
         border-style: solid;
@@ -413,7 +413,7 @@ h3{text-align:center;
  
     .bread{
         place-content:center;
-        width: 390x;
+        width: 390px;
         overflow: hidden;
         border-color:black;
         border-style: solid;
@@ -421,7 +421,7 @@ h3{text-align:center;
 
     .pancake{
         place-content:center;
-        width: 390x;
+        width: 390px;
         overflow: hidden;
         border-color:black;
         border-style: solid;
